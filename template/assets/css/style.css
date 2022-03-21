@@ -9017,7 +9017,7 @@ textarea.tt-hint {
   margin-left: -1.25rem; }
   .form-check-input[disabled] ~ .form-check-label,
   .form-check-input:disabled ~ .form-check-label {
-    color: #6c7293; }
+    color: #FFFFFF; }
 
 .form-check-label {
   margin-bottom: 0; }
@@ -15250,7 +15250,7 @@ a.text-dark:hover, a.text-dark:focus {
   color: #ffffff !important; }
 
 .text-muted, .preview-list .preview-item .preview-item-content p .content-category {
-  color: #6c7293 !important; }
+  color: #FFFFFF !important; }
 
 .text-black-50 {
   color: rgba(0, 0, 0, 0.5) !important; }
@@ -16015,7 +16015,7 @@ margin-left: 15px;
 
 .rounded-legend ul li {
   list-style-type: none;
-  color: #6c7293;
+  color: #FFFFFF;
   font-size: .75rem; }
   .rounded-legend ul li .legend-dots {
     width: 1rem;
@@ -16625,7 +16625,7 @@ margin-left: 15px;
 
 .game-option-task{
   border-radius: 8px;
-  background: #302461;
+  background: #24194F;
   width: 56px;
   height: 56px;
 }   
@@ -16736,7 +16736,7 @@ margin-left: 15px;
     padding-left: 0.625rem;
     font-size: 0.875rem;
     line-height: 1.5;
-    color: #6c7293; }
+    color: #FFFFFF; }
     .rtl .form-check .form-check-label {
       padding-left: 0;
       padding-right: 1.875rem; }
@@ -16946,11 +16946,11 @@ margin-left: 15px;
 
 .form-check-muted.form-check label input[type="checkbox"] + .input-helper:before,
 .form-check-muted.form-check label input[type="radio"] + .input-helper:before {
-  border-color: #6c7293; }
+  border-color: #FFFFFF; }
 
 .form-check-muted.form-check label input[type="checkbox"]:checked + .input-helper:before,
 .form-check-muted.form-check label input[type="radio"]:checked + .input-helper:before {
-  background: #6c7293; }
+  background: #FFFFFF; }
 
 /* Dropdowns */
 .dropdown .dropdown-menu {
@@ -17013,7 +17013,7 @@ margin-left: 15px;
   .jsgrid .jsgrid-table .jsgrid-filter-row select::placeholder, .jsgrid .jsgrid-table .jsgrid-filter-row input[type=number]::placeholder, .select2-container--default .select2-selection--single::placeholder, .select2-container--default .select2-selection--single .select2-search__field::placeholder, .typeahead::placeholder,
   .tt-query::placeholder,
   .tt-hint::placeholder {
-    color: #6c7293;
+    color: #FFFFFF;
     font-size: 0.875rem; }
 
 .navbar .form-control, .navbar .asColorPicker-input, .navbar .dataTables_wrapper select, .dataTables_wrapper .navbar select, .navbar .jsgrid .jsgrid-table .jsgrid-filter-row input[type=text], .jsgrid .jsgrid-table .jsgrid-filter-row .navbar input[type=text],
@@ -17942,12 +17942,12 @@ div.tagsinput {
 /* Tables */
 .table, .jsgrid .jsgrid-table {
   margin-bottom: 0;
-  color: #6c7293; }
+  color: #FFFFFF; }
   .table thead th, .jsgrid .jsgrid-table thead th {
     border-top: 0;
     border-bottom-width: 1px;
     font-weight: 500;
-    color: #6c7293; }
+    color: #FFFFFF; }
     .table thead th i, .jsgrid .jsgrid-table thead th i {
       margin-left: 0.325rem; }
   .table th, .jsgrid .jsgrid-table th,
@@ -19201,7 +19201,7 @@ body.avgrund-active {
   height: 300px; }
 
 .gauge text {
-  fill: #6c7293; }
+  fill: #FFFFFF; }
 
 /* Light Gallery */
 .lightGallery {
@@ -19246,7 +19246,7 @@ body.avgrund-active {
       margin: 0; }
 
 .morris-chart text {
-  fill: #6c7293; }
+  fill: #FFFFFF; }
 
 /* No-ui-slider */
 .noUi-target {
@@ -19604,7 +19604,7 @@ body.avgrund-active {
 
 .br-theme-bars-square .br-widget a {
   border-color: #4d4d4d;
-  color: #6c7293;
+  color: #FFFFFF;
   background: transparent; }
   .br-theme-bars-square .br-widget a.br-selected, .br-theme-bars-square .br-widget a.br-active {
     color: #ffab00;
@@ -19627,7 +19627,7 @@ body.avgrund-active {
 
 .br-theme-bars-pill .br-widget a {
   line-height: 2.5;
-  color: #6c7293; }
+  color: #FFFFFF; }
 
 /* Select2 */
 .select2-container--default .select2-results__option--highlighted[aria-selected] {
@@ -20401,7 +20401,6 @@ div.tagsinput {
 .navbar {
   font-weight: normal;
   background: #281E50;
-  left: 244px;
   transition: left 0.25s ease;
   -webkit-transition: left 0.25s ease;
   -moz-transition: left 0.25s ease;
@@ -20454,6 +20453,7 @@ div.tagsinput {
     padding-left: 15px;
     padding-right: 15px;
     width: 100%;
+    margin-left:221px;
     height: 70px; }
     .rtl .navbar .navbar-menu-wrapper {
       box-shadow: -34px 19px 34px -15px #000000;
@@ -20466,7 +20466,7 @@ div.tagsinput {
         padding-right: 15px; } }
     .navbar .navbar-menu-wrapper .navbar-toggler {
       border: 0;
-      color: #6c7293;
+      color: #FFFFFF;
       height: 70px;
       border-radius: 0px; }
       .navbar .navbar-menu-wrapper .navbar-toggler:not(.navbar-toggler-right) {
@@ -20770,7 +20770,7 @@ div.tagsinput {
 /* Sidebar */
 .sidebar {
   min-height: calc(100vh - 70px);
-  background: #281E50;
+  background: #33256A;
   font-weight: normal;
   padding: 0;
   width: 244px;
@@ -20788,7 +20788,7 @@ div.tagsinput {
 
     position: static;
     width: 192px;
-    height: 36px;
+    height: auto;
     left: 24px;
     top: 575px;
     margin-top: 15px;
@@ -20801,10 +20801,10 @@ div.tagsinput {
   .sidebar .social-media-group{
     position: static;
     width: 168px;
-    height: 72px;
+    height: auto;
     left: 32px;
     top: 696px;
-    margin-left: 20px;
+    margin-left: 30px;
   }
   .sidebar .sidebar-brand-wrapper {
     transition: width 0.25s ease, background 0.25s ease;
@@ -20842,18 +20842,20 @@ div.tagsinput {
   .sidebar .sidebar-item-wrapper{
     position: static;
     width: 240px;
-    height: 900px;
+    height: auto;
     left: 0px;
     top: 64px;
-    
-    background: #1A1335;
+    color: #FFFFFF;
+    background: #33256A;
+    border-bottom: 1px solid #3F307B ;
   }
     .sidebar .sidebar-item-wrapper .nav {
       overflow: hidden;
       flex-wrap: nowrap;
       flex-direction: column;
-      margin-bottom: 60px;
-      padding-top: 70px; }
+      margin-bottom: 0px;
+      margin-top: 10px;
+      padding-top: 0px; }
       @media (max-width: 992px) {
         .sidebar .sidebar-item-wrapper .nav {
           padding-top: 0; } }
@@ -20864,7 +20866,9 @@ div.tagsinput {
         transition-duration: 0.25s;
         transition-property: background;
         -webkit-transition-property: background;
-        padding-right: 20px; }
+        padding-right: 20px;
+        margin-left: 15px;
+       }
         .sidebar .sidebar-item-wrapper .nav .nav-item .collapse {
           z-index: 999; }
         .sidebar .sidebar-item-wrapper .nav .nav-item .nav-link {
@@ -20874,7 +20878,7 @@ div.tagsinput {
           align-items: center;
           white-space: nowrap;
           padding: 0.8rem 10px 0.8rem 1.188rem;
-          color: #6c7293;
+          color: #FFFFFF;
           -webkit-transition-duration: 0.45s;
           -moz-transition-duration: 0.45s;
           -o-transition-duration: 0.45s;
@@ -20882,7 +20886,7 @@ div.tagsinput {
           transition-property: color;
           -webkit-transition-property: color;
           height: 46px;
-          border-radius: 0px 100px 100px 0px; }
+          border-radius: 12px; }
           .sidebar .sidebar-item-wrapper .nav .nav-item .nav-link i {
             color: inherit; }
             .sidebar .sidebar-item-wrapper .nav .nav-item .nav-link i.menu-icon {
@@ -20918,17 +20922,8 @@ div.tagsinput {
             margin-right: auto;
             margin-left: 1rem; }
         .sidebar .sidebar-item-wrapper .nav .nav-item.active > .nav-link {
-          background: #0f1015;
+          background: linear-gradient(90.21deg, rgba(246, 190, 29, 0.1) -1.39%, rgba(255, 255, 255, 0) 101.37%), rgba(255, 255, 255, 0.05);
           position: relative; }
-          .sidebar .sidebar-item-wrapper .nav .nav-item.active > .nav-link:before {
-            content: "";
-            width: 3px;
-            height: 100%;
-            background: #0090e7;
-            display: inline-block;
-            position: absolute;
-            left: 0;
-            top: 0; }
           .sidebar .sidebar-item-wrapper .nav .nav-item.active > .nav-link .menu-title {
             color: #ffffff; }
           .sidebar .sidebar-item-wrapper .nav .nav-item.active > .nav-link i {
@@ -20984,7 +20979,7 @@ div.tagsinput {
                 margin-right: 1rem; }
               .sidebar .sidebar-item-wrapper .nav .nav-item.profile .profile-desc .profile-name span {
                 font-size: 12px;
-                color: #6c7293;
+                color: #FFFFFF;
                 white-space: nowrap; }
               .sidebar .sidebar-item-wrapper .nav .nav-item.profile .profile-desc .profile-name h5 {
                 white-space: nowrap; }
@@ -21028,7 +21023,7 @@ div.tagsinput {
                   border: 2px solid #2c2e33; }
             .sidebar .sidebar-item-wrapper .nav .nav-item.profile .profile-desc .mdi-dots-vertical {
               font-size: 20px;
-              color: #6c7293; }
+              color: #FFFFFF; }
             .sidebar .sidebar-item-wrapper .nav .nav-item.profile .profile-desc .dropdown-menu {
               padding: 0;
               margin-top: 1.25rem; }
@@ -21046,10 +21041,10 @@ div.tagsinput {
               .sidebar .sidebar-item-wrapper .nav .nav-item.profile .profile-desc .dropdown-menu .dropdown-divider {
                 margin: 0; }
         .sidebar .sidebar-item-wrapper .nav .nav-item.nav-category {
-          padding: 0.5rem 1.188rem;
+          padding: 15 10 ;
           line-height: 1; }
           .sidebar .sidebar-item-wrapper .nav .nav-item.nav-category .nav-link {
-            color: #6c7293;
+            color: #FFFFFF;
             font-weight: 500;
             font-size: 14px;
             font-weight: 500;
@@ -21077,7 +21072,7 @@ div.tagsinput {
         .sidebar .sidebar-item-wrapper .nav.sub-menu .nav-item {
           padding: 0; }
           .sidebar .sidebar-item-wrapper .nav.sub-menu .nav-item .nav-link {
-            color: #6c7293;
+            color: #FFFFFF;
             padding: 0.5rem 0.35rem;
             position: relative;
             font-size: 0.855rem;
@@ -21153,7 +21148,7 @@ div.tagsinput {
   .sidebar-icon-only .navbar {
     left: 70px; }
     .sidebar-icon-only .navbar .navbar-menu-wrapper {
-      width: 100%; }
+      width: 100% ; }
   .sidebar-icon-only .sidebar {
     width: 70px; }
     .sidebar-icon-only .sidebar .sidebar-brand-wrapper {
@@ -21250,7 +21245,7 @@ div.tagsinput {
             width: 5px;
             height: 5px;
             border-radius: 50%;
-            background-color: #6c7293;
+            background-color: #FFFFFF;
             position: absolute;
             left: 0; }
           .sidebar-icon-only .sidebar .sidebar-item-wrapper .nav.sub-menu .nav-item .nav-link:hover:before {
